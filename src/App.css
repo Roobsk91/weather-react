@@ -110,3 +110,11 @@ small {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+
+.open-source {
+  color: whitesmoke;
+}
+
+ .open-source a {
+    color: aliceblue;
+  }

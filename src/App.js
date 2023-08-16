@@ -68,6 +68,7 @@ function App() {
           </div>
         </div>
       </div>
+      <p className="open-source">Coded by Ruby Smith, open-sourced on <a href="https://github.com/Roobsk91/weather-react">GitHub</a></p>
     </div>
   );
 }
